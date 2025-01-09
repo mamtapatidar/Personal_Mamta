@@ -18,11 +18,11 @@ I am a passionate Data Engineer with 1+ years of experience in building scalable
   <img src="https://img.shields.io/badge/Azure_Data_Factory-009CDE?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory Badge" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Badge" />
 </p>
-
+---
 
 ### 🚀 Current Project
 
-- **Data engineer:** 
+ **Data engineer:** 
 Built scalable data pipelines with Azure Data Factory, Python, and PySpark.
 Developed ETL processes to integrate data into Data Lake and SQL databases.
 Managed data storage and querying with SQL Server and MySQL.
@@ -44,11 +44,11 @@ Delivered analytics and reporting solutions using Power BI.
 
 ### ✨ Fun Facts:  
 
-🌐 Data Engineering Enthusiast: Passionate about building scalable data pipelines and transforming raw data into actionable insights.</br>
-🤖 RPA Developer: Skilled in automating workflows and optimizing business processes using robotic process automation (RPA) tools.</br>
-🎓 Lifelong Learner: Continuously exploring new technologies and tools to stay at the forefront of data engineering and automation advancements.</br>
----
+🌐 **Data Engineering Enthusiast:** Passionate about building scalable data pipelines and transforming raw data into actionable insights.</br>
+🤖 **RPA Developer:** Skilled in automating workflows and optimizing business processes using robotic process automation (RPA) tools.</br>
+🎓 **Lifelong Learner:** Continuously exploring new technologies and tools to stay at the forefront of data engineering and automation advancements.</br>
 
+---
 
 ### 💬 Let's Collaborate!
 
