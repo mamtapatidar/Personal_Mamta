@@ -22,18 +22,21 @@ I am a passionate Data Engineer with 1+ years of experience in building scalable
 
 ### 🚀 Current Project
 
-- **Blood Bank Website:** A dynamic web application built with ASP.NET Core and SQL Server to help blood banks efficiently manage donors, requests, and inventories.
+- **Data engineer:** 
+Built scalable data pipelines with Azure Data Factory, Python, and PySpark.
+Developed ETL processes to integrate data into Data Lake and SQL databases.
+Managed data storage and querying with SQL Server and MySQL.
+Leveraged Azure Databricks, Synapse Analytics for data solutions.
+Automated workflows with Data Factory to optimize performance and reduce costs.
+Delivered analytics and reporting solutions using Power BI.
 
 ---
 
 ### 🌐 Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/chirag-bhoyar-725747286/">
+  <a href="www.linkedin.com/in/mamta-patidar-166557170">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://www.instagram.com/chirag.bhoyar14?igsh=MW96azRncHh5dHh5aQ==">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
 
