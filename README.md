@@ -10,14 +10,15 @@ I am a passionate Data Engineer with 1+ years of experience in building scalable
 
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Badge" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server Badge" />
-  <img src="https://img.shields.io/badge/Azure_Databricks-000000?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks Badge" />
+  <img src="https://img.shields.io/badge/Azure_Databricks-FF420E?style=for-the-badge&logo=databricks&logoColor=white" alt="Azure Databricks Badge" />
   <img src="https://img.shields.io/badge/Azure_Synapse-0088d4?style=for-the-badge&logo=azure-synapse&logoColor=white" alt="Azure Synapse Badge" />
   <img src="https://img.shields.io/badge/Data_Storage-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Data Storage Badge" />
-  <img src="https://img.shields.io/badge/Azure_Data_Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory Badge" />
+  <img src="https://img.shields.io/badge/Azure_Data_Factory-009CDE?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Data Factory Badge" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI Badge" />
 </p>
+
 
 ### 🚀 Current Project
 
