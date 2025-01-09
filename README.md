@@ -44,10 +44,9 @@ Delivered analytics and reporting solutions using Power BI.
 
 ### ✨ Fun Facts:
 
-- 🌈 **I love vibrant colors:** My designs often feature bright, fresh color schemes.
-- 🖥️ **Frontend Focus:** I enjoy building modern, interactive web components using React.js and Framer Motion.
-- 🎓 **Lifelong Learning:** I’m always exploring new technologies and tools to expand my skill set.
-
+🌐 Data Engineering Enthusiast: Passionate about building scalable data pipelines and transforming raw data into actionable insights.
+🤖 RPA Developer: Skilled in automating workflows and optimizing business processes using robotic process automation (RPA) tools.
+🎓 Lifelong Learner: Continuously exploring new technologies and tools to stay at the forefront of data engineering and automation advancements.
 ---
 
 ### 📊 GitHub Stats:
@@ -65,7 +64,7 @@ Delivered analytics and reporting solutions using Power BI.
 
 ### 💬 Let's Collaborate!
 
-I'm always open to collaborating on interesting projects, especially those related to .NET and web development. Whether you have a project idea or just want to chat, feel free to reach out!
+I'm always open to collaborating on interesting projects, especially those related to Data Engineer and RPA Developer. Whether you have a project idea or just want to chat, feel free to reach out!
 
 ---
 
