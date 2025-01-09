@@ -42,25 +42,13 @@ Delivered analytics and reporting solutions using Power BI.
 
 ---
 
-### ✨ Fun Facts:
+### ✨ Fun Facts:  
 
-🌐 Data Engineering Enthusiast: Passionate about building scalable data pipelines and transforming raw data into actionable insights.
-🤖 RPA Developer: Skilled in automating workflows and optimizing business processes using robotic process automation (RPA) tools.
-🎓 Lifelong Learner: Continuously exploring new technologies and tools to stay at the forefront of data engineering and automation advancements.
+🌐 Data Engineering Enthusiast: Passionate about building scalable data pipelines and transforming raw data into actionable insights.</br>
+🤖 RPA Developer: Skilled in automating workflows and optimizing business processes using robotic process automation (RPA) tools.</br>
+🎓 Lifelong Learner: Continuously exploring new technologies and tools to stay at the forefront of data engineering and automation advancements.</br>
 ---
 
-### 📊 GitHub Stats:
-
-[<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChiragBhoyar14&show_icons=true&theme=radical" alt="Chirag's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragBhoyar14&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragBhoyar14&theme=radical" alt="GitHub Streak" />
-</p>
-](url)
----
 
 ### 💬 Let's Collaborate!
 
