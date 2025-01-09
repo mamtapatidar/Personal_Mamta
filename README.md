@@ -51,7 +51,7 @@ Delivered analytics and reporting solutions using Power BI.
 
 ### 📊 GitHub Stats:
 
-<p align="center">
+[<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChiragBhoyar14&show_icons=true&theme=radical" alt="Chirag's GitHub stats" />
 </p>
 
@@ -59,7 +59,7 @@ Delivered analytics and reporting solutions using Power BI.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChiragBhoyar14&layout=compact&theme=radical" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChiragBhoyar14&theme=radical" alt="GitHub Streak" />
 </p>
-
+](url)
 ---
 
 ### 💬 Let's Collaborate!
